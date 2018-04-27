@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinos", "Dino\Dinos.csproj", "{92A5A537-FE87-469A-8B72-2CABB9027458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{17CF4E11-71D4-4503-9746-243BF6BE8CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDino", "TestDino\TestDino.csproj", "{619FED4D-CDCF-42A7-8AE3-C6ADF16D8515}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Dino\\Dinos.csproj
+		SccProjectName1 = Dino
+		SccLocalPath1 = Dino
+		SccProjectUniqueName2 = WebApplication1\\WebApplication1.csproj
+		SccProjectName2 = WebApplication1
+		SccLocalPath2 = WebApplication1
+		SccProjectUniqueName3 = TestDino\\TestDino.csproj
+		SccProjectName3 = TestDino
+		SccLocalPath3 = TestDino
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A5A537-FE87-469A-8B72-2CABB9027458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A5A537-FE87-469A-8B72-2CABB9027458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A5A537-FE87-469A-8B72-2CABB9027458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A5A537-FE87-469A-8B72-2CABB9027458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CF4E11-71D4-4503-9746-243BF6BE8CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CF4E11-71D4-4503-9746-243BF6BE8CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CF4E11-71D4-4503-9746-243BF6BE8CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CF4E11-71D4-4503-9746-243BF6BE8CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619FED4D-CDCF-42A7-8AE3-C6ADF16D8515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619FED4D-CDCF-42A7-8AE3-C6ADF16D8515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619FED4D-CDCF-42A7-8AE3-C6ADF16D8515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619FED4D-CDCF-42A7-8AE3-C6ADF16D8515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
